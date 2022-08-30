@@ -15,7 +15,7 @@
 
 # Official Website
 
-▶︎ https://getmarkdown.app
+▶︎ https://codesqueezer.app
 
 # Issues
 
