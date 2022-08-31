@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://s3.amazonaws.com/ensili.co/markdownplus-2.1.zip
+▶︎ https://squeezerapp.s3.amazonaws.com/Squeezer-2.3b1244.zip
 
 # Official Website
 
