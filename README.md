@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://squeezerapp.s3.amazonaws.com/Squeezer-2.3b1244.zip
+▶︎ https://cdn.ensili.co/download/squeezer/squeezer-2.5.zip
 
 # Official Website
 
