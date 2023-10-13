@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://cdn.ensili.co/download/squeezer/squeezer-2.5.2.zip
+▶︎ 
 
 # Official Website
 
