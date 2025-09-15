@@ -15,7 +15,7 @@
 
 # Official Website
 
-▶︎ https://codesqueezer.app
+▶︎ https://ensili.co/app/codesqueezer
 
 # Issues
 
