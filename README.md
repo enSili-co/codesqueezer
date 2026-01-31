@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/squeezer/squeezer-2.9.4.zip
+▶︎ https://cdn.ensili.co/app/squeezer/download/squeezer-2.9.4.zip
 
 # Official Website
 
